@@ -1,0 +1,6 @@
+{
+  "name": "NinjaTugas - Asisten AI Hening",
+  "description": "Asisten tugas pintar dengan jendela mengambang (floating overlay), live screen solver, mode samaran instan, dan 100% hening tanpa suara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

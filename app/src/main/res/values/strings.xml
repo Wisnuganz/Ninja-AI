@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NinjaTugas</string>
+    <string name="app_tagline">Asisten Tugas AI Hening &amp; Jendela Mengambang</string>
+    <string name="overlay_permission_title">Izin Jendela Mengambang</string>
+    <string name="overlay_permission_desc">Aktifkan izin pop-up agar NinjaTugas dapat mengambang di atas aplikasi lain (tugas, PDF, browser).</string>
+    <string name="media_projection_title">Izin Live Screen</string>
+    <string name="media_projection_desc">Aktifkan analisis layar langsung untuk membaca soal ujian atau tugas seketika.</string>
+    <string name="stealth_mode_active">Mode Samaran Aktif</string>
+    <string name="silent_mode_badge">100% Hening (Tanpa Suara)</string>
+    <string name="service_notification_title">NinjaTugas Berjalan</string>
+    <string name="service_notification_text">Jendela mengambang aktif. Ketuk untuk membuka kontrol samaran.</string>
+    <string name="hide_now">Sembunyikan</string>
+    <string name="stop_service">Tutup</string>
+</resources>
